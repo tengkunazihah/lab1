@@ -6,3 +6,4 @@ Pah dah masuk
 
 alif here
 awi
+Min

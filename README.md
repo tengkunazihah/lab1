@@ -16,3 +16,4 @@ wq
 hihihihihi
 
 1.0_wan update android ammak
+2.0_wan ayyoyoy

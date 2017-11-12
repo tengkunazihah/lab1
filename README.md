@@ -23,6 +23,14 @@ hihihihihi
 
 i'm  trying
 
+
 #3.0_wan
 version 3
+=======
+
+
+
+pah try sama dengan wan
+=======
+
 

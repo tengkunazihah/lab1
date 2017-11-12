@@ -14,3 +14,5 @@ sadasd
 wq
 
 hihihihihi
+
+1.0_wan update android ammak
